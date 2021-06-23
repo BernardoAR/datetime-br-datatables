@@ -1,6 +1,6 @@
 # datetime-br-datatables
 
-Repositório simples com o js para filtro em js de datas ou datetime para o datatables.
+Repositório simples com o js para filtro em js de datas ou datetime no formato brasileiro para o datatables.
 
 ## Como utilizar
 
